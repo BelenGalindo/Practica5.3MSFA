@@ -1,4 +1,4 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?project=https://github.com/BelenGalindo/Practica5.3MSFA.git)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=BelenGalindo/Practica5)
 # Práctica: Sistema musculoesquelético
 
 ## Información de la estudiante
