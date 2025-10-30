@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
+Maria Belen Galindo Ramirez [22211755]; l22211755@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
